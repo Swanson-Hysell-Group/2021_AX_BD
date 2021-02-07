@@ -1,0 +1,147 @@
+strike,dip_dir,dip,dec_corr,unit,type,notes
+6,96,8,n,GB3,flow banding,flowtop
+11,101,9,n,GB3,flow banding,flowtop
+25,115,9,n,GB3,flow banding,flowtop
+14,104,7,n,GB3,flow banding,
+38,128,7,n,GB3,flow banding,questionable measurement
+36,126,8,n,GB3,flow banding,questionable measurement
+26,116,8,n,GB4,flow banding,
+39,129,12,n,GB4,flow banding,questionable measurement
+34,124,13,n,GB4,flow banding,
+20,110,15,n,GB4,flow banding,
+19,109,13,n,GB4,flow banding,
+22,112,11,n,GB4,flow banding,
+27,117,8,n,GB4,flow banding,
+22,112,11,n,GB4,flow banding,
+39,129,12,n,GB4,flow banding,
+10,100,10,n,GB4,flow banding,
+15,105,12,n,GB4,flow banding,
+6,96,18,n,GB6,flow banding,
+2,92,16,n,GB6,flow banding,
+19,109,15,n,GB6,flow banding,
+64,154,4,n,GB7,flow banding,
+50,140,4,n,GB7,flow banding,
+16,106,7,n,GB7,flow banding,
+-5,85,8,n,GB7,flow banding,
+5,95,6,n,GB7,flow banding,
+32,122,9,n,GB7,flow banding,
+29,119,5,n,GB7,flow banding,
+12,102,6,n,GB7,flow banding,
+-5,85,5,n,GB7,flow banding,
+359,89,9,n,GB7,flow banding,
+16,106,7,n,GB7,flow banding,
+44,134,9,n,GB7,flow banding,
+15,105,9,n,GB7,flow banding,
+6,96,15,n,GB7,flow banding,
+24,114,19,n,GB9,flow banding,
+20,110,20,n,GB9,flow banding,
+12,102,15,n,GB9,flow banding,
+21,111,6,n,GB10,flow banding,
+36,126,10,n,GB10,flow banding,
+36,126,11,n,GB10,flow banding,
+49,139,19,n,GB10,flow banding,
+35,125,9,n,GB11,flow banding,
+28,118,11,n,GB11,flow banding,
+27,117,10,n,GB11,flow banding,
+46,136,7,n,GB11,flow banding,questionable measurement
+50,140,14,n,GB11,flow banding,questionable measurement
+27,117,22,n,GB11,flow banding,
+24,114,16,n,GB11,flow banding,
+24,114,15,n,GB11,flow banding,
+27,117,13,n,GB11,flow banding,
+0,90,14,n,GB11,flow banding,
+15,105,10,n,GB11,flow banding,very confident measurement
+16,106,9,n,GB11,flow banding,
+22,112,8,n,GB11,flow banding,
+13,103,8,n,GB11,flow banding,
+3,93,8,n,GB11,flow banding,
+24,114,7,n,GB11,flow banding,
+20,110,7,n,GB11,flow banding,
+21,111,9,n,GB11,flow banding,
+12,102,8,n,GB11,flow banding,flowtop
+32,122,12,n,GB11,flow banding,flowtop
+16,106,10,n,GB11,flow banding,flowtop
+27,117,9,n,GB12,flow banding,very confident measurement
+14,104,7,n,GB12,flow banding,questionable measurement
+14,104,13,n,GB13,flow banding,flowtop
+20,110,12,n,GB13,flow banding,flowtop
+32,122,16,n,GB13,flow banding,
+49,139,24,n,GB13,flow banding,questionable measurement
+24,114,12,n,GB14,flow banding,very confident measurement
+20,110,10,n,GB14,flow banding,very confident measurement
+15,105,10,n,GB14,flow banding,very confident measurement
+40,130,11,n,GB14,flow banding,questionable measurement
+13,103,10,n,GB14,flow banding,very confident measurement
+20,110,10,n,GB14,flow banding,very confident measurement
+28,118,11,n,GB14,flow banding,questionable measurement
+35,125,9,n,GB15,flow banding,flowtop
+11,101,10,n,GB15,flow banding,flowtop
+14,104,9,n,GB15,flow banding,flowtop
+28,118,10,n,GB15,flow banding,flowtop
+10,100,12,n,GB15,flow banding,flowtop
+14,104,11,n,GB15,flow banding,flowtop
+25,115,10,n,GB14,flow banding,
+21,111,14,n,GB14,flow banding,
+19,109,14,n,GB14,flow banding,
+0,90,14,n,GB14,flow banding,
+33,123,10,n,GB14,flow banding,questionable measurement
+-6,84,13,n,GB21,flow banding,questionable measurement; irregular flowtop
+-9,81,16,n,GB21,flow banding,questionable measurement; irregular flowtop
+10,100,12,n,GB21,flow banding,questionable measurement; irregular flowtop
+49,139,7,n,GB21,flow banding,questionable measurement
+19,109,7,n,GB21,flow banding,very confident measurement
+16,106,11,n,GB21,flow banding,very confident measurement
+25,115,11,n,GB21,flow banding,very confident measurement
+28,118,8,n,GB21,flow banding,
+14,104,10,n,GB21,flow banding,very confident measurement
+17,107,9,n,GB21,flow banding,
+27,117,11,n,GB21,flow banding,
+5,95,15,n,GB21,flow banding,
+40,130,7,n,GB21,flow banding,
+33,123,12,n,GB22,flow banding,questionable measurement
+31,121,9,n,GB22,flow banding,very confident measurement
+29,119,5,n,GB22,flow banding,questionable measurement
+5,95,8,n,GB22,flow banding,
+45,135,14,n,GB22,flow banding,questionable measurement
+4,94,13,n,GB22,flow banding,
+23,113,9,n,GB22,flow banding,
+26,116,20,n,GB22,flow banding,questionable measurement
+22,112,10,n,GB22,flow banding,very confident measurement
+22,112,12,n,GB22,flow banding,very confident measurement
+18,108,8,n,GB22,flow banding,very confident measurement
+35,125,7,n,GB22,flow banding,
+23,113,7,n,GB22,flow banding,
+33,123,20,n,GB22,flow banding,
+27,117,8,n,GB22,flow banding,
+32,122,6,n,GB23,flow banding,flowtop
+36,126,8,n,GB23,flow banding,flowtop
+26,116,7,n,GB23,flow banding,flowtop
+35,125,7,n,GB23,flow banding,flowtop
+27,117,7,n,GB23,flow banding,flowtop
+57,147,17,n,GB28,flow banding,fractures parallel to flow banding
+34,124,10,n,GB28,flow banding,fractures parallel to flow banding
+79,169,10,n,GB28,flow banding,fractures parallel to flow banding
+48,138,16,n,GB28,flow banding,fractures parallel to flow banding
+52,142,10,n,GB28,flow banding,fractures parallel to flow banding
+42,132,10,n,GB28,flow banding,fractures parallel to flow banding
+59,149,7,n,GB28,flow banding,fractures parallel to flow banding
+71,161,9,n,GB28,flow banding,fractures parallel to flow banding
+-5,85,12,n,GB28,flow banding,fractures parallel to flow banding
+-32,58,11,n,GB28,flow banding,fractures parallel to flow banding
+34,124,8,n,GB28,flow banding,fractures parallel to flow banding
+80,170,12,n,GB28,flow banding,fractures parallel to flow banding
+22,112,19,n,GB28,flow banding,fractures parallel to flow banding
+54,144,9,n,GB28,flow banding,fractures parallel to flow banding
+57,147,9,n,GB28,flow banding,fractures parallel to flow banding
+29,119,7,n,GB32,flow banding,
+35,125,11,n,GB32,flow banding,
+31,121,12,n,GB32,flow banding,
+13,103,7,n,GB32,flow banding,
+33,123,7,n,GB32,flow banding,
+29,119,8,n,GB32,flow banding,
+31,121,9,n,GB32,flow banding,
+32,122,10,n,GB32,flow banding,
+12,102,10,n,GB32,flow banding,
+15,105,9,n,GB32,flow banding,
+26,116,13,n,GB32,flow banding,
+20,110,12,n,GB32,flow banding,
