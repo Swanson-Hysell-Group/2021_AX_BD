@@ -1,4 +1,4 @@
-# Synchronous emplacement of anorthosite xenoliths and one of the largest lava flows on Earth
+# Synchronous emplacement of anorthosite xenoliths, the Beaver River diabase, and the Greenstone Flow
 
 This repository contains data, code, and a manuscript presenting and analyzing data from the anorthosite and diabase from the Beaver Bay Complex to be submitted to the AGU journal Geochemistry, Geophysics, Geosystems.
 
