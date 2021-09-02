@@ -1,9 +1,0 @@
-cartopy
-matplotlib
-numpy
-pandas
-future
-pmagpy
-scipy
-xlrd
-xml.etree.ElementTree
